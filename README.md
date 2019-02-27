@@ -6,6 +6,8 @@ React project, webservices and JSON data, filters, buttons..
 
 In the project directory, you can run:
 
+### install node modules before
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
